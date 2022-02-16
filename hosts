@@ -1,0 +1,2 @@
+[home]
+serv ansible_host=192.168.1.119 ansible_user=serv ansible_connection=ssh ansible_ssh_private_key_file=~/.ssh/serv 

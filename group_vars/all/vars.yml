@@ -1,0 +1,11 @@
+username: serv
+packages:
+  - nano
+  - python3-pip
+  - htop
+  - neofetch
+  - git
+  - curl
+  - apt-transport-https
+  - wget
+  - docker.io
