@@ -15,4 +15,5 @@
 
 ## Installation - 
 Run `run.sh` on host to create ssh key and copy it to serv. It runs ansible playbook for first time. 
-`optional.sh` isn't idempotent and it therefore not recommended for production usage. It installs node, docker-compose, and lazydocker. It also setups docker to work now. There are also instructions there to permanently mount usb drives.
+The `optional.sh` file isn't idempotent and it therefore not recommended for production usage. 
+It installs node, docker-compose, and lazydocker. It also setups docker to work now. There are also instructions in it to permanently mount usb drives.
