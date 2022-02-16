@@ -1,4 +1,4 @@
-# Ansible playbook for Ubuntu homserver
+# Ansible playbook for Ubuntu homeserver
 I use this Ansible playbook to install and configure the bare minimum software that is needed to run a laptop Ubuntu Server. 
 ---
 ## Tasks - 
